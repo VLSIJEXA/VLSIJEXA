@@ -1,4 +1,4 @@
 ## Hi there 👋
-## 🌱 I’m currently learning HDL
+### 🌱 I’m currently learning HDL
 
 
