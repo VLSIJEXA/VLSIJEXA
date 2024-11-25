@@ -1,10 +1,10 @@
 # Hi, I'm Jatin Katiyar 👋
 
-I'm a passionate **VLSI Designer & HDL Enthusiast** from India.
+I'm a passionate **VLSI Designer & HDL Enthusiast** .
 
 🙋‍♂️ **About Me**:
 
-Hello! I'm **Jatin**, a software engineer who is passionate about exploring **HDL** (Hardware Description Languages) and **VLSI design**. I am currently learning and working on projects related to **digital circuit design**, using tools like **Vivado** and **Xilinx**. 
+Hello! I'm **Jatin**,  who is passionate about exploring **HDL** (Hardware Description Languages) and **VLSI design**. I am currently learning and working on projects related to **digital circuit design**, using tools like **Vivado** and **Xilinx**. 
 
 I love problem-solving, learning new concepts, and sharing my journey with others through this repository.
 
