@@ -1,6 +1,9 @@
 # Hi, I'm Jatin Katiyar 👋
 
-I'm a passionate **VLSI Designer & HDL Enthusiast** .
+## 🏆 **Open Source Contributor **:
+
+![Open Source Contributor](https://example.com/animated-text.gif)
+
 
 🙋‍♂️ **About Me**:
 
@@ -57,6 +60,15 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 1. **Basic Verilog Designs** - Exploring basic digital circuits.
 2. **VLSI Testbenches** - Building testbenches for HDL designs.
 3. **Digital System Synthesis** - Working on digital system optimization.
+## ⚡ **Quick Stats**:
+
+<div align="center">
+  <!-- Profile Visitors Count -->
+  <img src="https://img.shields.io/badge/Profile%20Visitors-250-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Visitors"/>
+
+  <!-- Total Time Coded -->
+  <img src="https://img.shields.io/badge/Total%20Time%20Coded-120%20hrs-yellow?style=for-the-badge&logo=clock&logoColor=white" alt="Total Time Coded"/>
+</div>
 
 ## 🎯 **Key Achievements**:
 
