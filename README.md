@@ -45,9 +45,12 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 
 ## 📈 **GitHub Stats**:
 
+![Verilog Badge](https://img.shields.io/badge/Language-Verilog-blue?style=for-the-badge&logo=verilog&logoColor=white)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VLSIJEXA&show_icons=true&theme=radical" />
 </div>
+
 
 ## 🔭 **My Projects**:
 
