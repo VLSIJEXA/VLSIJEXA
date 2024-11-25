@@ -1,9 +1,6 @@
 # Hi, I'm Jatin Katiyar 👋
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Open+Source+Contributor+%40+VLSIJEXA" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F728F2&width=435&lines=Open+Source+Contributor+%40+VLSIJEXA)](https://git.io/typing-svg)
 
 🙋‍♂️ **About Me**:
 
