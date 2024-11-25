@@ -61,7 +61,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 
 <div align="center">
   <!-- Profile Visitors Count -->
-  <img src="https://img.shields.io/badge/Profile%20Visitors-250-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Visitors"/>
+  <img src="https://img.shields.io/badge/Profile%20Visitors-2500-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Visitors"/>
 
   <!-- Total Time Coded -->
   <img src="https://img.shields.io/badge/Total%20Time%20Coded-120%20hrs-yellow?style=for-the-badge&logo=clock&logoColor=white" alt="Total Time Coded"/>
