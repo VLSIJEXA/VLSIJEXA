@@ -38,7 +38,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
   <a href="https://www.scribd.com/user/572364691/Jatin-katiyar">
     <img src="https://img.shields.io/badge/Scribd-%23FF6F00.svg?&style=for-the-badge&logo=scribd&logoColor=white" />
   </a>
-  <a href="mailto:katiyarjatin943@gmail.com">
+ <a href="mailto:katiyarjatin943@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
