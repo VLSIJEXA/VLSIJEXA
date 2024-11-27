@@ -14,7 +14,8 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 - Exploring **digital synthesis** and **hardware optimization**.
 
 
-![Jatin Katiyar](https://avatars.githubusercontent.com/u/66388388?v=4)
+<img src="https://avatars.githubusercontent.com/u/66388388?v=4" alt="Jatin Katiyar" width="150" style="border-radius:50%;">
+
 
 ## 🚀 **Skills**:
 
