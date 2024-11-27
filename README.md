@@ -90,3 +90,8 @@ I love problem-solving, learning new concepts, and sharing my journey with other
   <img src="https://img.shields.io/badge/Repositories-11-green?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-11-yellow?style=flat&logo=github&logoColor=white" />
 </div>
+ <!-- Updated SVG from raw URL -->
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee SVG" style="max-width: 100%;" />
+
+  <br />
+  <br />
