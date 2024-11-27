@@ -1,14 +1,27 @@
-# Hi, I'm Jatin Katiyar 👋
+<!-- "Hero" Header -->
+<div align="left">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Jatin and I like HDL" src="https://raw.githubusercontent.com/VLSIJEXA/personal_note/main/personal_note.svg" />
+  <br />
+  <br />
+  
+  <!-- Typing SVG animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F728F2&width=435&lines=Open+Source+Contributor+%40+VLSIJEXA" alt="Typing SVG animation" />
+  </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F728F2&width=435&lines=Open+Source+Contributor+%40+VLSIJEXA)](https://git.io/typing-svg)
+  <br />
+  <br />
 
-🙋‍♂️ **About Me**:
+##  🙋‍♂️ **About Me**:
 
-Hello! I'm **Jatin**,  who is passionate about exploring **HDL** (Hardware Description Languages) and **VLSI design**. I am currently learning and working on projects related to **digital circuit design**, using tools like **Vivado** and **Xilinx**. 
+Hello! I'm **Jatin Katiyar**,  who is passionate about exploring **HDL** (Hardware Description Languages) and **VLSI design**. I am currently learning and working on projects related to **digital circuit design**, using tools like **Vivado** and **Xilinx**. 
 
 I love problem-solving, learning new concepts, and sharing my journey with others through this repository.
 
-💻 **Currently Focused On**:
+## 💻 **Currently Focused On**:
 - Learning and applying **HDL** for digital circuit design.
 - Implementing testbenches and simulations to validate my designs.
 - Exploring **digital synthesis** and **hardware optimization**.
