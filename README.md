@@ -13,6 +13,9 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 - Implementing testbenches and simulations to validate my designs.
 - Exploring **digital synthesis** and **hardware optimization**.
 
+
+![Jatin Katiyar](https://avatars.githubusercontent.com/u/66388388?v=4)
+
 ## 🚀 **Skills**:
 
 - **Languages**: ![Verilog](https://img.shields.io/badge/Verilog-343F47?style=for-the-badge&logo=verilog&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-0A1D2D?style=for-the-badge&logo=vhdl&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
