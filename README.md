@@ -6,7 +6,10 @@
   <img height="50" alt="My Name is Jatin and I like HDL" src="https://raw.githubusercontent.com/VLSIJEXA/personal_note/main/personal_note.svg" />
   <br />
   <br />
-  
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif" alt="Octocat GIF" width="300" />
+</div>
+
   <!-- Typing SVG animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F728F2&width=435&lines=Open+Source+Contributor+%40+VLSIJEXA" alt="Typing SVG animation" />
