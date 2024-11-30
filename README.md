@@ -44,6 +44,25 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 - Exploring the basics of **VLSI design**.
 
 ## 🔗 **Connect with Me**:
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://cleverx.com/@JATIN-KATIYAR">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/globe.gif">
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jatin-k-8427102bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
