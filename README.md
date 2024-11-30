@@ -106,7 +106,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 ## 🎯 **Key Achievements**:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Repositories-11-green?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-12-green?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-11-yellow?style=flat&logo=github&logoColor=white" />
 </div>
  <!-- Updated SVG from raw URL -->
