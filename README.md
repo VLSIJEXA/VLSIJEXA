@@ -58,7 +58,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 
 <p>
 
-<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/globe.gif">
+<img alt="Globe" height="80" src="https://github.com/VLSIJEXA/personal_note/blob/main/globe.gif">
 </a>
 </p>
 
