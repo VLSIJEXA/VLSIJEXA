@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="left">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/VLSIJEXA/personal_note/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Jatin and I like HDL" src="https://raw.githubusercontent.com/VLSIJEXA/personal_note/main/personal_note.svg" />
