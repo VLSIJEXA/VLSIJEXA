@@ -7,7 +7,7 @@
   <br />
   <br />
   <div align="center">
-  <img src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif" alt="Octocat GIF" width="300" />
+  <img src="https://github.com/VLSIJEXA/personal_note/blob/main/octocat-moving.gif" alt="Octocat GIF" width="300" />
 </div>
 
   <!-- Typing SVG animation -->
