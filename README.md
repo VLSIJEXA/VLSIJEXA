@@ -121,7 +121,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 <p align="center">
   <!-- Profile Visitors Badge (Static Count Example) -->
   <a href="https://github.com/VLSIJEXA">
-    <img src="https://img.shields.io/badge/Profile%20Visitors-2500-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Visitors"/>
+    <img src="https://komarev.com/ghpvc/?username=VLSIJEXAe&style=flat-square"/>
   </a>
 </p>
 
