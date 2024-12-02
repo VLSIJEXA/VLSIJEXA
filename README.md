@@ -96,6 +96,15 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 1. **Basic Verilog Designs** - Exploring basic digital circuits.
 2. **VLSI Testbenches** - Building testbenches for HDL designs.
 3. **Digital System Synthesis** - Working on digital system optimization.
+
+
+## 🎯 **Key Achievements**:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Repositories-12-green?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-11-yellow?style=flat&logo=github&logoColor=white" />
+</div>
+
 ## ⚡ **Quick Stats**:
 
 <div align="center">
@@ -105,14 +114,6 @@ I love problem-solving, learning new concepts, and sharing my journey with other
   <!-- Total Time Coded -->
   <img src="https://img.shields.io/badge/Total%20Time%20Coded-120%20hrs-yellow?style=for-the-badge&logo=clock&logoColor=white" alt="Total Time Coded"/>
 </div>
-
-## 🎯 **Key Achievements**:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Repositories-12-green?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-11-yellow?style=flat&logo=github&logoColor=white" />
-</div>
-
  <br />
   <br />
   <div align="center">
