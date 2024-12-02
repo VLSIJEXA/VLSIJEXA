@@ -117,11 +117,14 @@ I love problem-solving, learning new concepts, and sharing my journey with other
   <div align="center">
   <img src="https://github.com/VLSIJEXA/personal_note/blob/main/puddle_jumper_octodex.jpg" alt="Octocat GIF" width="300" />
 </div>
+
 <p align="center">
-  <a href="https://www.freecounterstat.com" title="free counter">
-    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=hejj2j87bwhzsg6mf6nju5yfadpu5dte" border="0" title="free counter" alt="free counter">
+  <!-- Profile Visitors Badge (Static Count Example) -->
+  <a href="https://github.com/VLSIJEXA">
+    <img src="https://img.shields.io/badge/Profile%20Visitors-2500-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Visitors"/>
   </a>
 </p>
+
  <!-- Updated SVG from raw URL -->
   <img src="https://github.com/VLSIJEXA/personal_note/blob/main/marquee.svg" alt="Marquee SVG" style="max-width: 100%;" />
 
