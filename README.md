@@ -115,7 +115,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
  <br />
   <br />
   <div align="center">
-  <img src="https://github.com/VLSIJEXA/personal_note/blob/main/puddle_jumper_octodex.jpg" alt="Octocat GIF" width="300" />
+  <img src="https://github.com/VLSIJEXA/personal_note/blob/main/puddle_jumper_octodex-removebg-preview.png" alt="Octocat GIF" width="300" />
 </div>
 
 <p align="center">
