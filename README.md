@@ -50,7 +50,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://cleverx.com/@JATIN-KATIYAR">
+<a href="https://sites.google.com/view/vlsijexa/home">
 <strong>Visit my personal website </strong>
 <br />
 <br />
