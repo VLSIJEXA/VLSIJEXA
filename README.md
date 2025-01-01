@@ -86,7 +86,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 
 ![Verilog Badge](https://img.shields.io/badge/Language-Verilog-blue?style=for-the-badge&logo=verilog&logoColor=white)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VLSIJEXA&show_icons=true&locale=en&layout=compact" alt="VLSIJEXA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VLSIJEXA&show_icons=true&theme=radical" alt="VLSIJEXA" />
 </div>
 
 <div align="center">
