@@ -20,7 +20,7 @@
 
 ##  🙋‍♂️ **About Me**:
 
-Hello! I'm **Jatin Katiyar**,  who is passionate about exploring **HDL** (Hardware Description Languages) and **VLSI design**. I am currently learning and working on projects related to **digital circuit design**, using tools like **Vivado** and **Xilinx**. 
+Hello! I'm **Jatin Katiyar**,  who is passionate about exploring **HDL** (Hardware Description Languages) and **VLSI design**. I am currently learning and working on projects related to **digital circuit design**, using tools like **Vivado**  and **Xilinx**. 
 
 I love problem-solving, learning new concepts, and sharing my journey with others through this repository.
 
@@ -36,7 +36,8 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 ## 🚀 **Skills**:
 
 - **Languages**: ![Verilog](https://img.shields.io/badge/Verilog-343F47?style=for-the-badge&logo=verilog&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-0A1D2D?style=for-the-badge&logo=vhdl&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- **Tools**: ![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=vivado&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white)
+- **Tools**: ![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=vivado&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF6F00?style=for-the-badge)
+
 - **Digital System Design**: Designing and optimizing digital circuits.
 - **Simulation & Testing**: Building testbenches and validating designs.
 
