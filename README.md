@@ -36,10 +36,7 @@ I love problem-solving, learning new concepts, and sharing my journey with other
 ## 🚀 **Skills**:
 
 - **Languages**: ![Verilog](https://img.shields.io/badge/Verilog-343F47?style=for-the-badge&logo=verilog&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-0A1D2D?style=for-the-badge&logo=vhdl&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- **Tools**: ![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=vivado&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF6F00?style=for-the-badge)
-
-- **Digital System Design**: Designing and optimizing digital circuits.
-- **Simulation & Testing**: Building testbenches and validating designs.
+- **Tools**: ![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=vivado&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF6F00?style=for-the-badge)![ModelSim](https://img.shields.io/badge/ModelSim-1E8AC9?style=for-the-badge&logo=autodesk&logoColor=white) ![EDA Playground](https://img.shields.io/badge/EDA_Playground-04C1C8?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 
 ## 🌱 **What I’m Working On**:
 
